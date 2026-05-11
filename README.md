@@ -4,7 +4,7 @@ A machine learning project focused on detecting fraudulent credit card transacti
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Credit card fraud is a major challenge in the financial industry due to the extremely imbalanced nature of transaction datasets. In this project, multiple supervised machine learning models were trained and evaluated to identify fraudulent transactions from legitimate ones.
 
@@ -15,7 +15,7 @@ The primary objective of this project was to:
 
 ---
 
-## 🧠 Machine Learning Models Used
+## Machine Learning Models Used
 
 The following supervised learning algorithms were implemented and compared:
 
@@ -27,7 +27,7 @@ The following supervised learning algorithms were implemented and compared:
 
 ---
 
-## 📊 Evaluation Metrics and Analysis
+## Evaluation Metrics and Analysis
 
 Each model was evaluated and compared using multiple classification and performance metrics, including:
 
@@ -43,7 +43,7 @@ Performance comparisons and visualizations were used to analyze how effectively 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 This project uses the publicly available Credit Card Fraud Detection dataset from Kaggle.
 
@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## ⚙️ Technologies Used
+## Tools Used
 
 - Python
 - Jupyter Notebook
@@ -71,7 +71,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## 🔍 Project Workflow
+## Project Workflow
 
 1. Data preprocessing
 2. Exploratory data analysis and visualization
@@ -84,17 +84,27 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ---
 
-## 📈 Results
+## Results
 
-The models were compared using classification metrics and visualization techniques to determine which algorithm performed best for fraud detection.
+The following results were obtained from the trained machine learning models:
+
+| Model | Accuracy | Precision | Recall | F1 Score |
+|---|---|---|---|---|
+| Decision Tree | 99.92% | 81.29% | 76.36% | 78.75% |
+| Random Forest | 99.96% | 98.68% | 76.53% | 86.21% |
+| Logistic Regression | 93.40% | 95.70% | 90.82% | 93.19% |
+| KNN | 99.96% | 86.57% | 85.29% | 85.93% |
+| SVM | 94.93% | 100.00% | 86.11% | 92.54% |
+
+### Key Findings
+
+- **Random Forest** achieved the highest overall accuracy among the models.
+- **SVM** achieved perfect precision, meaning it produced virtually no false positives.
+- **Logistic Regression** achieved the highest F1 Score, demonstrating strong balance between precision and recall.
+- **KNN** performed consistently well across all metrics.
+- ROC curves, AUC scores, and confusion matrices were used to further evaluate classification performance and compare model effectiveness visually.
 
 The project demonstrates how different machine learning algorithms behave on highly imbalanced fraud detection datasets and highlights the importance of metrics such as recall, F1 score, ROC-AUC, and confusion matrices when evaluating fraud detection systems.
-
-Key analyses included:
-- ROC curve comparison across all models
-- AUC score evaluation
-- Confusion matrix visualization
-- Metric comparison plots
 
 ---
 
