@@ -105,7 +105,7 @@ The following results were obtained from the trained machine learning models:
 - ROC curves, AUC scores, and confusion matrices were used to further evaluate classification performance and compare model effectiveness visually.
 
 In fraud detection, accuracy alone can be misleading, since a model can get 99% accuracy simply by predicting “not fraud” most of the time.
-What matters more is how many fraud cases you successfully catch (Recall), how many flagged fraud cases are actually fraud (Precision), and the F1 score, which is a balance between precision and recall. To further emphasize the point, recall is extremely important because: missing fraudulent transactions is usually worse than occasionally flagging legitimate ones.
+What matters more is how many fraud cases you successfully catch (Recall), how many flagged fraud cases are actually fraud (Precision), and the F1 score, which is a balance between precision and recall. 
 
 Although Random Forest and KNN achieved extremely high accuracy, Logistic Regression and SVM demonstrated stronger fraud detection capability through higher recall and F1 scores. Logistic Regression achieved the best overall balance between identifying fraudulent transactions and minimizing classification errors, making it the strongest-performing model for this use case.
 
