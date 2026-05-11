@@ -66,11 +66,13 @@ The following results were obtained from the trained machine learning models:
 
 | Model | Accuracy | Precision | Recall | F1 Score |
 |---|---|---|---|---|
-| Decision Tree | 99.92% | 81.29% | 76.36% | 78.75% |
-| Random Forest | 99.96% | 98.68% | 76.53% | 86.21% |
-| Logistic Regression | 93.40% | 95.70% | 90.82% | 93.19% |
-| KNN | 99.96% | 86.57% | 85.29% | 85.93% |
-| SVM | 94.93% | 100.00% | 86.11% | 92.54% |
+| Decision Tree | 99.92% | 73.61% | 76.81% | 75.18% |
+| Random Forest | 99.96% | 97.40% | 76.53% | 85.71% |
+| Logistic Regression | 93.91% | 96.74% | 90.82% | 93.68% |
+| KNN | 99.94% | 85.21% | 81.76% | 83.45% |
+| SVM | 93.58% | 95.88% | 86.11% | 90.73% |
+| XGBoost | 99.95% | 92.56% | 76.19% | 83.58% |
+
 
 ### Key Findings
 
