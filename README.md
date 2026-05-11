@@ -95,9 +95,13 @@ The Logistic Regression model was able to catch 90.82% of fraud cases, the highe
 
 ![Dataset Imbalance](images/real_vs_fraud.png)
 
-### Model Performance Comparison
+### Model Performance Comparison - Bar Chart
 
 ![Model Comparison](images/model_comparison.png)
+
+### Model Performance Comparison - Heatmap
+
+![Model Comparison](images/model_heatmap.png)
 
 ### ROC Curve Comparison
 
