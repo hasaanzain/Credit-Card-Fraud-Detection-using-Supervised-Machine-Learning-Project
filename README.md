@@ -24,6 +24,7 @@ The following supervised learning algorithms were implemented and compared:
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
 - Logistic Regression
+- XGBoost
 
 ---
 
