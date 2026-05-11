@@ -133,18 +133,6 @@ Open the Jupyter Notebook and run all cells.
 jupyter notebook
 ```
 
----
-
-## 📷 Visualizations Included
-
-The project includes:
-- Fraud vs non-fraud transaction distribution plots
-- Correlation heatmaps
-- Model comparison bar charts
-- ROC curves
-- AUC score analysis
-- Confusion matrices
-- Performance metric visualizations
 
 ---
 
@@ -173,24 +161,16 @@ The project includes:
 8. Performance analysis across all algorithms
 
 
-
----
-
-## 📚 References
-
-- Kaggle Credit Card Fraud Detection Dataset
-- Scikit-learn Documentation
-- Imbalanced-learn Documentation
-
 ---
 
 ## 👨‍💻 Author
 
 Hasaan Mohsin
 
-Physics & Astronomy Graduate | AI & Data Science Enthusiast | Aspiring Astronaut
+Astrophysics Graduate @ University of Toronto | AI/ML Engineer 
 
 GitHub: https://github.com/hasaanzain
+Website: hhtps://hasaanmohsin.com
 
 ---
 
