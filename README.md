@@ -56,31 +56,6 @@ This project uses the publicly available Credit Card Fraud Detection dataset fro
 Dataset link:  
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
----
-
-## Tools Used
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Imbalanced-learn
-
----
-
-## Project Workflow
-
-1. Data preprocessing
-2. Exploratory data analysis and visualization
-3. Feature scaling and normalization
-4. Handling class imbalance
-5. Model training
-6. Model evaluation and comparison
-7. Visualization of ROC curves and confusion matrices
-8. Performance analysis across all algorithms
 
 ---
 
@@ -156,15 +131,31 @@ The project includes:
 
 ---
 
-## 🎯 Key Learnings
+## Tools Used
 
-- Handling highly imbalanced datasets
-- Comparing multiple supervised learning algorithms
-- Evaluating classification models beyond accuracy
-- Understanding real-world fraud detection challenges
-- Applying preprocessing and feature scaling techniques
-- Using ROC curves and AUC scores for model evaluation
-- Interpreting confusion matrices for classification analysis
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Imbalanced-learn
+
+---
+
+## Project Workflow
+
+1. Data preprocessing
+2. Exploratory data analysis and visualization
+3. Feature scaling and normalization
+4. Handling class imbalance
+5. Model training
+6. Model evaluation and comparison
+7. Visualization of ROC curves and confusion matrices
+8. Performance analysis across all algorithms
+
+
 
 ---
 
