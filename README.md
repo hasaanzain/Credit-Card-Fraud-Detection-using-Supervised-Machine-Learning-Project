@@ -89,7 +89,7 @@ The Logistic Regression model was able to catch 90.82% of fraud cases, the highe
 
 ---
 
-## 📷 Visualizations
+## Visualizations
 
 ### Dataset Imbalance
 
@@ -109,7 +109,7 @@ The Logistic Regression model was able to catch 90.82% of fraud cases, the highe
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 
@@ -167,7 +167,7 @@ jupyter notebook
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Hasaan Mohsin
 
@@ -178,7 +178,7 @@ Website: hhtps://hasaanmohsin.com
 
 ---
 
-## ⭐ Future Improvements
+## Future Improvements
 
 - Implement XGBoost and LightGBM
 - Apply SMOTE oversampling
